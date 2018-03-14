@@ -12,6 +12,7 @@ h3. Contains functions that calculate:
 
 * Decile rankings
 * ELFI (Ethnolinguistic Fractionalization Index)
+* Largest Prime Factor
 * Mean
 * Mean center
 * Median
